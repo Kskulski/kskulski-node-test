@@ -31,5 +31,5 @@ jobs:
       with:
         app-name: 'kskulski-node-test'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_96e60f8fb4654fe6ad1c6c53d62a5eec }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_a3f72c8d46984e5ca5accb0eecb984c7 }}
         package: .
